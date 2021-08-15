@@ -398,6 +398,7 @@ input[type='checkbox']{
 	.card-service{
 		flex-direction: column;
 		text-align: center;
+                margin-bottom:20px;
 	}
 	.card-service h2{
 		margin: 10px 0;
